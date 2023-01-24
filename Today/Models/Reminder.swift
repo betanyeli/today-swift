@@ -13,6 +13,7 @@ struct Reminder {
     var notes: String? = nil
     var isComplete: Bool = false
 }
+// instanciar un objeto de prueba como un mock
 #if DEBUG
 extension Reminder {
     static var sampleData = [
