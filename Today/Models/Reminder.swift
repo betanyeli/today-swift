@@ -25,7 +25,11 @@ extension Reminder {
             Reminder(title: "Mock up onboarding experience", dueDate: Date().addingTimeInterval(72000.0), notes: "Think different"),
             Reminder(title: "Review usage analytics", dueDate: Date().addingTimeInterval(83000.0), notes: "Discuss trends with management"),
             Reminder(title: "Confirm group reservation", dueDate: Date().addingTimeInterval(92500.0), notes: "Ask about space heaters"),
-            Reminder(title: "Add beta :D xD testers to TestFlight", dueDate: Date().addingTimeInterval(101000.0),  notes: "v0.9 out on Friday")
+            Reminder(title: "Add beta :D xD testers to TestFlight", dueDate: Date().addingTimeInterval(101000.0),  notes: "v0.9 out on Friday"),
+            Reminder(title: "HOLA XD DESDE PC DE SOPHIA ", dueDate: Date().addingTimeInterval(101000.0), notes: "v0.9 out on Friday"),
+            Reminder(title: "BOOTCAMP", dueDate: Date().addingTimeInterval(92500.0), notes: "Ask about space heaters"),
+            Reminder(title: "DE", dueDate: Date().addingTimeInterval(101000.0),  notes: "v0.9 out on Friday"),
+            Reminder(title: "MOBILE iOS  ", dueDate: Date().addingTimeInterval(101000.0), notes: "v0.9 out on Friday")
         ]
 }
 #endif // compilador mete las cosas en la estructura q ya existe... para agregar cosas en clases ya existente.
