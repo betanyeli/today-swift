@@ -45,5 +45,7 @@ class ReminderListViewController: UICollectionViewController {
         listConfiguration.backgroundColor = .clear
         return UICollectionViewCompositionalLayout.list(using: listConfiguration)
     }
+    
+    
 }
 
